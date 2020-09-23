@@ -20,3 +20,23 @@ body {
   width: 283px;
   height: 68px;
 }
+
+.about {
+  position: absolute;
+  left: 815px;
+  top: 632px;
+  opacity: 0;
+  cursor: pointer;
+  width: 283px;
+  height: 68px;
+}
+
+.wechat {
+  position: absolute;
+  left: 1203px;
+  top: 632px;
+  opacity: 0;
+  cursor: pointer;
+  width: 283px;
+  height: 68px;
+}
