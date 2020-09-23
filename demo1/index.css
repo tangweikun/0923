@@ -14,7 +14,9 @@ body {
   position: absolute;
   left: 436px;
   top: 632px;
-  background: red;
+  opacity: 0;
+  cursor: pointer;
+  /* background: red; */
   width: 283px;
   height: 68px;
 }
