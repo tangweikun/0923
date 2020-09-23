@@ -40,3 +40,33 @@ body {
   width: 283px;
   height: 68px;
 }
+
+.iPhone {
+  position: absolute;
+  left: 355px;
+  top: 1096px;
+  opacity: 0;
+  cursor: pointer;
+  width: 290px;
+  height: 290px;
+}
+
+.android {
+  position: absolute;
+  left: 810px;
+  top: 1096px;
+  opacity: 0;
+  cursor: pointer;
+  width: 290px;
+  height: 290px;
+}
+
+.QRCode {
+  position: absolute;
+  left: 1262px;
+  top: 1096px;
+  opacity: 0;
+  cursor: pointer;
+  width: 290px;
+  height: 290px;
+}
